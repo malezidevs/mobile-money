@@ -1,0 +1,16 @@
+[15-Sep-2018 12:45:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Http/routes.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Http/routes.php on line 3
+[15-Dec-2018 05:48:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Http/routes.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Http/routes.php on line 3
+[28-Mar-2019 03:21:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Http/routes.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Http/routes.php on line 3
+[19-May-2019 07:49:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Http/routes.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Http/routes.php on line 3

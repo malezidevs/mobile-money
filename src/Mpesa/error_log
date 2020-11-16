@@ -1,0 +1,4 @@
+[03-Oct-2018 14:03:19 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Mpesa/MpesaServiceProvider.php on line 19
+[28-Nov-2018 23:25:49 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Mpesa/MpesaServiceProvider.php on line 19
+[21-Feb-2019 06:48:52 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Mpesa/MpesaServiceProvider.php on line 19
+[03-Apr-2019 04:05:06 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Mpesa/MpesaServiceProvider.php on line 19

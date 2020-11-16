@@ -1,0 +1,4 @@
+[19-Sep-2018 16:16:41 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Equity/EquityServiceProvider.php on line 13
+[07-Dec-2018 16:50:57 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Equity/EquityServiceProvider.php on line 13
+[07-Jan-2019 19:49:08 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Equity/EquityServiceProvider.php on line 13
+[05-Mar-2019 06:58:33 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/src/Equity/EquityServiceProvider.php on line 13

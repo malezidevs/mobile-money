@@ -1,0 +1,36 @@
+[12-Sep-2018 16:12:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/app.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/app.php on line 13
+[12-Sep-2018 16:12:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/database.php on line 16
+[19-Sep-2018 05:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/app.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/app.php on line 13
+[21-Sep-2018 11:15:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/database.php on line 16
+[08-Oct-2018 06:16:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/app.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/app.php on line 13
+[09-Oct-2018 17:25:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/database.php on line 16
+[03-Dec-2018 19:45:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/app.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/app.php on line 13
+[05-Dec-2018 04:07:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/database.php on line 16
+[08-Jan-2019 09:52:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/app.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/malezi/public_html/maleziweb/vendor/dervisgroup/mobile-money/tests/config/app.php on line 13
