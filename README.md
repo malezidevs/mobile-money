@@ -1,4 +1,4 @@
-#This CodeBase is a manual fork of dervisgroup/mobile-money
+# This CodeBase was forked from the dervisgroup/mobile-money repository
 
 # Mobile Money Payments API
 
