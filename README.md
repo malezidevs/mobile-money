@@ -121,10 +121,6 @@ $ composer test
 
 If you discover any security related issues, please email sam@dervisgroup.com instead of using the issue tracker.
 
-## Support
-
-- [Samuel Dervis <sam@dervisgroup.com>][link-author]
-
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
